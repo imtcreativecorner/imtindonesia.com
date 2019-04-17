@@ -82,6 +82,7 @@ a:hover {text-decoration:underline;}
 	z-index:1001;
 }
 .main-nav ul li { 
+	font-size: 35px;
 	list-style: none;
 	display: inline;
 	padding-right: 10px;
